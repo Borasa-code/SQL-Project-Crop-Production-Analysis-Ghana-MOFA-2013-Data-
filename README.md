@@ -24,5 +24,5 @@ Through SQL analysis, I uncovered Ghana's agricultural narrative:
 - **Future Trends**: Projected cassava's accelerating growth pattern
 
 ## Files
-1. `SQL Project Crop Production Analysis (Ghana MOFA 2013 Dataset)`: Database table structure
+1. `SQL Project Crop Production Analysis (Ghana MOFA 2013 Dataset)`: Queries
 2. `Crop Production metric tonnes MOFA 2013.csv`: Original dataset
